@@ -29,7 +29,7 @@ h3 {
   margin: 0;
 }
 
-/* Хедер */
+/* Заголовок */
 
 .web {
   font-family: Raleway;
@@ -68,7 +68,7 @@ h3 {
 }
 /* Заголовок */
 
-.hero {
+.main {
   text-align: center;
   margin: 0;
   width: 1600px;
@@ -77,7 +77,7 @@ h3 {
   top: 80px;
   background: var(--background2-color);
 }
-.hero-text {
+.main-text {
   padding-top: 200px;
   margin: auto;
   width: 696px;
@@ -89,11 +89,11 @@ h3 {
   text-transform: uppercase;
   color: var(--white-color);
 }
-.hero-button:focus,
-.hero-button:hover {
+.main-button:focus,
+.main-button:hover {
   background: #188ce8;
 }
-.hero-button {
+.main-button {
   margin-top: 30px;
   cursor: pointer;
   font-family: Roboto;
